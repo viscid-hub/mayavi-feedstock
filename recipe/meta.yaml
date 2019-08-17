@@ -22,6 +22,9 @@ build:
 
 requirements:
   build:
+    - {{ compiler('fortran') }}
+    - {{ compiler('c') }}
+  host:
     - python
     - numpy 1.9.*   # [linux]
     - numpy 1.9.*   # [win and py==35]
