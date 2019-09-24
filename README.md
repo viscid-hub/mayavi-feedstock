@@ -18,33 +18,33 @@ Current build status
 <table><tr>
     <td>CircleCI</td>
     <td>
-      <a href="https://circleci.com/gh/conda-forge/mayavi-feedstock">
-        <img alt="Linux" src="https://img.shields.io/circleci/project/github/conda-forge/mayavi-feedstock/master.svg?label=Linux">
+      <a href="https://circleci.com/gh/viscid-hub/mayavi-feedstock">
+        <img alt="Linux" src="https://img.shields.io/circleci/project/github/viscid-hub/mayavi-feedstock/master.svg?label=Linux">
       </a>
     </td>
   </tr><tr>
     <td>Travis</td>
     <td>
-      <a href="https://travis-ci.org/conda-forge/mayavi-feedstock">
-        <img alt="macOS" src="https://img.shields.io/travis/conda-forge/mayavi-feedstock/master.svg?label=macOS">
+      <a href="https://travis-ci.org/viscid-hub/mayavi-feedstock">
+        <img alt="macOS" src="https://img.shields.io/travis/viscid-hub/mayavi-feedstock/master.svg?label=macOS">
       </a>
     </td>
   </tr><tr>
     <td>Appveyor</td>
     <td>
-      <a href="https://ci.appveyor.com/project/conda-forge/mayavi-feedstock/branch/master">
-        <img alt="windows" src="https://img.shields.io/appveyor/ci/conda-forge/mayavi-feedstock/master.svg?label=Windows">
+      <a href="https://ci.appveyor.com/project/viscid-hub/mayavi-feedstock/branch/master">
+        <img alt="windows" src="https://img.shields.io/appveyor/ci/viscid-hub/mayavi-feedstock/master.svg?label=Windows">
       </a>
     </td>
   </tr>
-    
+
   <tr>
     <td>Azure</td>
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master">
+          <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+            <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master">
           </a>
         </summary>
         <table>
@@ -52,57 +52,57 @@ Current build status
           <tbody><tr>
               <td>linux_python2.7</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=linux&configuration=linux_python2.7" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=linux&configuration=linux_python2.7" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_python3.6</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=linux&configuration=linux_python3.6" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=linux&configuration=linux_python3.6" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_python3.7</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=linux&configuration=linux_python3.7" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=linux&configuration=linux_python3.7" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_python2.7</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=osx&configuration=osx_python2.7" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=osx&configuration=osx_python2.7" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_python3.6</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=osx&configuration=osx_python3.6" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=osx&configuration=osx_python3.6" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_python3.7</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=osx&configuration=osx_python3.7" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=osx&configuration=osx_python3.7" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_python3.6</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=win&configuration=win_python3.6" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=win&configuration=win_python3.6" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_python3.7</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=win&configuration=win_python3.7" alt="variant">
+                <a href="https://dev.azure.com/viscid-hub/feedstock-builds/_build/latest?definitionId=5386&branchName=master">
+                  <img src="https://dev.azure.com/viscid-hub/feedstock-builds/_apis/build/status/mayavi-feedstock?branchName=master&jobName=win&configuration=win_python3.7" alt="variant">
                 </a>
               </td>
             </tr>
@@ -119,18 +119,18 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-mayavi-green.svg)](https://anaconda.org/conda-forge/mayavi) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/mayavi.svg)](https://anaconda.org/conda-forge/mayavi) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/mayavi.svg)](https://anaconda.org/conda-forge/mayavi) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/mayavi.svg)](https://anaconda.org/conda-forge/mayavi) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-mayavi-green.svg)](https://anaconda.org/viscid-hub/mayavi) | [![Conda Downloads](https://img.shields.io/conda/dn/viscid-hub/mayavi.svg)](https://anaconda.org/viscid-hub/mayavi) | [![Conda Version](https://img.shields.io/conda/vn/viscid-hub/mayavi.svg)](https://anaconda.org/viscid-hub/mayavi) | [![Conda Platforms](https://img.shields.io/conda/pn/viscid-hub/mayavi.svg)](https://anaconda.org/viscid-hub/mayavi) |
 
 Installing mayavi
 =================
 
-Installing `mayavi` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
+Installing `mayavi` from the `viscid-hub` channel can be achieved by adding `viscid-hub` to your channels with:
 
 ```
-conda config --add channels conda-forge
+conda config --add channels viscid-hub
 ```
 
-Once the `conda-forge` channel has been enabled, `mayavi` can be installed with:
+Once the `viscid-hub` channel has been enabled, `mayavi` can be installed with:
 
 ```
 conda install mayavi
@@ -139,18 +139,18 @@ conda install mayavi
 It is possible to list all of the versions of `mayavi` available on your platform with:
 
 ```
-conda search mayavi --channel conda-forge
+conda search mayavi --channel viscid-hub
 ```
 
 
-About conda-forge
+About viscid-hub
 =================
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
-conda-forge is a community-led conda channel of installable packages.
+viscid-hub is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the
-conda-forge GitHub organization. The conda-forge organization contains one repository
+viscid-hub GitHub organization. The viscid-hub organization contains one repository
 for each of the installable packages. Such a repository is known as a *feedstock*.
 
 A feedstock is made up of a conda recipe (the instructions on what and how to build
@@ -158,15 +158,15 @@ the package) and the necessary configurations for automatic building using freel
 available continuous integration services. Thanks to the awesome service provided by
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/)
 and [TravisCI](https://travis-ci.org/) it is possible to build and upload installable
-packages to the [conda-forge](https://anaconda.org/conda-forge)
+packages to the [viscid-hub](https://anaconda.org/viscid-hub)
 [Anaconda-Cloud](https://anaconda.org/) channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
-[conda-smithy](https://github.com/conda-forge/conda-smithy) has been developed.
-Using the ``conda-forge.yml`` within this repository, it is possible to re-render all of
+[conda-smithy](https://github.com/viscid-hub/conda-smithy) has been developed.
+Using the ``viscid-hub.yml`` within this repository, it is possible to re-render all of
 this feedstock's supporting files (e.g. the CI configuration files) with ``conda smithy rerender``.
 
-For more information please check the [conda-forge documentation](https://conda-forge.org/docs/).
+For more information please check the [viscid-hub documentation](https://viscid-hub.org/docs/).
 
 Terminology
 ===========
@@ -177,7 +177,7 @@ Terminology
                    Its primary use is in the construction of the CI ``.yml`` files
                    and simplify the management of *many* feedstocks.
 
-**conda-forge** - the place where the feedstock and smithy live and work to
+**viscid-hub** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
 
 
@@ -189,9 +189,9 @@ package version, please fork this repository and submit a PR. Upon submission,
 your changes will be run on the appropriate platforms to give the reviewer an
 opportunity to confirm that the changes result in a successful build. Once
 merged, the recipe will be re-built and uploaded automatically to the
-`conda-forge` channel, whereupon the built conda packages will be available for
-everybody to install and use from the `conda-forge` channel.
-Note that all branches in the conda-forge/mayavi-feedstock are
+`viscid-hub` channel, whereupon the built conda packages will be available for
+everybody to install and use from the `viscid-hub` channel.
+Note that all branches in the viscid-hub/mayavi-feedstock are
 immediately built and any created packages are uploaded, so PRs should be based
 on branches in forks and branches in the main repository should only be used to
 build distinct package versions.
