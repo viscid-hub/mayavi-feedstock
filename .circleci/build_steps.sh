@@ -20,8 +20,7 @@ conda-build:
 CONDARC
 
 conda install --yes --quiet conda-forge-ci-setup=2 conda-build -c conda-forge
-# conda install --yes --quiet xorg-libxt xorg-libsm xorg-libxrender -c conda-forge
-sudo yum -y install libXt libSM libXrender libXt-devel libSM-devel libXrender-devel
+sudo yum -y install libSM mesa-libGL
 
 # set up the condarc
 setup_conda_rc "${FEEDSTOCK_ROOT}" "${RECIPE_ROOT}" "${CONFIG_FILE}"
